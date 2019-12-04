@@ -1,0 +1,16 @@
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\beapps.sales.api\beapps.sales.api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\beapps.sales.api\beapps.sales.api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\beapps.sales.api\beapps.sales.api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\beapps.sales.api\beapps.sales.api\bin\Debug\netcoreapp2.2\beapps.sales.api.deps.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\beapps.sales.api\beapps.sales.api\bin\Debug\netcoreapp2.2\beapps.sales.api.runtimeconfig.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\beapps.sales.api\beapps.sales.api\bin\Debug\netcoreapp2.2\beapps.sales.api.runtimeconfig.dev.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\beapps.sales.api\beapps.sales.api\bin\Debug\netcoreapp2.2\beapps.sales.api.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\beapps.sales.api\beapps.sales.api\bin\Debug\netcoreapp2.2\beapps.sales.api.pdb
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\beapps.sales.api\beapps.sales.api\obj\Debug\netcoreapp2.2\beapps.sales.api.csprojAssemblyReference.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\beapps.sales.api\beapps.sales.api\obj\Debug\netcoreapp2.2\beapps.sales.api.RazorAssemblyInfo.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\beapps.sales.api\beapps.sales.api\obj\Debug\netcoreapp2.2\beapps.sales.api.RazorAssemblyInfo.cs
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\beapps.sales.api\beapps.sales.api\obj\Debug\netcoreapp2.2\beapps.sales.api.AssemblyInfoInputs.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\beapps.sales.api\beapps.sales.api\obj\Debug\netcoreapp2.2\beapps.sales.api.AssemblyInfo.cs
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\beapps.sales.api\beapps.sales.api\obj\Debug\netcoreapp2.2\beapps.sales.api.RazorTargetAssemblyInfo.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\beapps.sales.api\beapps.sales.api\obj\Debug\netcoreapp2.2\beapps.sales.api.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\beapps.sales.api\beapps.sales.api\obj\Debug\netcoreapp2.2\beapps.sales.api.pdb

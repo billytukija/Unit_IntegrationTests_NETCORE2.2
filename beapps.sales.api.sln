@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "beapps.sales.api", "beapps.sales.api\beapps.sales.api.csproj", "{2C7CE927-9770-4485-BCD8-BAE47EC968F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "beapps.sales.api.tests", "beapps.sales.api.tests", "{EC230AA3-0F52-42AB-BEAF-58BA29AE5CEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "beapps.sales.api.integrtationTests", "beapps.sales.api.integrtationTests\beapps.sales.api.integrtationTests.csproj", "{71F207BD-7CCD-4835-923F-9BA47BFFA62E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "beapps.sales.api.unitTests", "beapps.sales.api.unitTests\beapps.sales.api.unitTests.csproj", "{94FA49B5-4152-4707-8C02-F2AC00CBD36C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C7CE927-9770-4485-BCD8-BAE47EC968F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7CE927-9770-4485-BCD8-BAE47EC968F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7CE927-9770-4485-BCD8-BAE47EC968F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7CE927-9770-4485-BCD8-BAE47EC968F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71F207BD-7CCD-4835-923F-9BA47BFFA62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F207BD-7CCD-4835-923F-9BA47BFFA62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F207BD-7CCD-4835-923F-9BA47BFFA62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F207BD-7CCD-4835-923F-9BA47BFFA62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94FA49B5-4152-4707-8C02-F2AC00CBD36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FA49B5-4152-4707-8C02-F2AC00CBD36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FA49B5-4152-4707-8C02-F2AC00CBD36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FA49B5-4152-4707-8C02-F2AC00CBD36C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{71F207BD-7CCD-4835-923F-9BA47BFFA62E} = {EC230AA3-0F52-42AB-BEAF-58BA29AE5CEC}
+		{94FA49B5-4152-4707-8C02-F2AC00CBD36C} = {EC230AA3-0F52-42AB-BEAF-58BA29AE5CEC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BB04495-B391-4487-BD27-BC64EA0E6E38}
+	EndGlobalSection
+EndGlobal
